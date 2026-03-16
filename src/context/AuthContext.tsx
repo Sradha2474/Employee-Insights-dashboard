@@ -63,3 +63,6 @@ export function useAuth(): AuthContextValue {
   if (!ctx) throw new Error('useAuth must be used within AuthProvider');
   return ctx;
 }
+
+// AuthContext centralizes authentication state (user info + login/logout)
+// so that any component in the app can easily check whether the user is logged in.
