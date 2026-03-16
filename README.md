@@ -2,6 +2,8 @@
 
 A 4-screen React application: Login, Employee List (with custom virtualization), Identity Verification (camera + signature overlay + merge), and Analytics (audit image, salary chart, city map). Built with **raw CSS** and **custom logic only**—no UI libraries (MUI, Bootstrap, etc.) and no virtualization libraries (react-window, react-virtualized).
 
+This project is built with Vite + React + TypeScript and is intended as an employee dashboard demo.
+
 ---
 
 ## Project Overview
