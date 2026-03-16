@@ -252,3 +252,6 @@ export default function ListPage() {
     </div>
   );
 }
+
+// employeeApi defines small helper functions for talking to the backend.
+// Keeping API calls here makes it easier to change endpoints or add error handling later.
