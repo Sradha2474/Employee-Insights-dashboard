@@ -62,5 +62,5 @@ No map library. Raw SVG in `src/componets/AnalyticsPage.tsx`.
 
 ## Deliverables
 
-- **Source code:** [GitHub repository URL]
-- **Screen recording:** [Video URL] — walkthrough + ≤60s explainer (image merging + scroll offset).
+- **Source code:** [https://github.com/Sradha2474/Employee-Insights-dashboard]
+- **Screen recording:** [https://youtu.be/kGUkpEaB-eM] — walkthrough + explainer (image merging + scroll offset).
