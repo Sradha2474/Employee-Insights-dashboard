@@ -294,3 +294,6 @@ export default function LoginScreen() {
     </div>
   );
 }
+
+// Login page renders a simple form that updates the global AuthContext
+// and then redirects the user into the protected area of the app.
