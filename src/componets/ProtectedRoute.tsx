@@ -18,3 +18,6 @@ export default function ProtectedRoute({ children }: Props) {
 
   return <>{children}</>;
 }
+
+// ProtectedRoute wraps private routes and checks AuthContext.
+// If the user is not authenticated, it redirects them back to the login screen.
