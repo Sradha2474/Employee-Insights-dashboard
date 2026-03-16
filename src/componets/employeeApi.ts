@@ -92,3 +92,6 @@ export function parseSalary(value: unknown): number {
   const parsed = Number.parseFloat(normalized);
   return Number.isFinite(parsed) ? parsed : 0;
 }
+
+// employeeApi defines small helper functions for talking to the backend.
+// Keeping API calls here makes it easier to change endpoints or add error handling later.
